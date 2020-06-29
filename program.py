@@ -121,5 +121,3 @@
 #     except ValueError:
 #         print('Thats not even a number asshole')
 #
-#
-#
