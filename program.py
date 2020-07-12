@@ -168,3 +168,48 @@
 # print(difference(user_age))
 # print(difference(user_age))
 
+# num = 8
+#
+# # To take the input from the user
+# num = int(input('Enter a number: '))
+#
+# num_sqrt = num ** .5
+# print(f'The square root of {num} is {num_sqrt}')
+# # print('The square root of %0.3f is %0.3f'%(num ,num_sqrt))
+
+
+# num = int(input('enter a number'))
+# remainder = num % 2
+#
+#
+# def even_odd():
+#     if remainder == 0:
+#         print('even')
+#     else:
+#         print('odd')
+#
+#
+# even_odd()
+# print(remainder)
+
+# num = None
+# remainder = None
+#
+#
+# def even_odd():
+#     if remainder == 0:
+#         print('even')
+#     else:
+#         print('odd')
+#
+#
+# while num != 0:
+#     num = int(input('enter a number'))
+#     remainder = num % 2
+#     even_odd()
+#     print(remainder)
+
+# even_odd()
+# print(remainder)
+
+
