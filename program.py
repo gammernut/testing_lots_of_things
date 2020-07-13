@@ -556,3 +556,5 @@
 #             wf.write(rf_chunk)
 #             rf_chunk = rf.read(chunk_size)
 
+# user_input_main_loop = input('\n[L]ist entries, [A]dd an entry, E[x]it: \n')
+# user_input_main_loop = user_input_main_loop.lower().strip()
