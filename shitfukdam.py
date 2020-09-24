@@ -19,12 +19,9 @@ keep enjoying our bites!
 
 sep = text.split('\n')
 
-
-
 # s = sep.strip()
 
 print(sep)
-
 
 # def slice_and_dice(text: str = text) -> list:
 #     """Get a list of words from the passed in text.
@@ -32,6 +29,5 @@ print(sep)
 #     sep = text.split('\n') # from byte 4
 #
 #     results = []
-
 
 
