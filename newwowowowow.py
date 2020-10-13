@@ -7,5 +7,3 @@ board = [
 
 print(board)
 
-# asda
-# asda
