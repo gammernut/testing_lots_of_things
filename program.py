@@ -1923,3 +1923,39 @@
 #  l1.extend(l2)
 #  print(l1)
 #  print(len(l1))
+
+# def main():
+#     num = get_user_input()
+#     get_fac(num)
+#
+#
+#
+# def get_user_input():
+#     n = int(input('enter number'))
+#     return n
+#
+#
+# def get_fac(n):
+#     if n < 0:
+#         return -1
+#     elif n < 2:
+#         return 1
+#     else:
+#         #return n * get_fac(n-1)
+#         n = n * get_fac(n-1)
+#         print(n)
+#
+#
+#
+# if __name__ == '__main__':
+#     main()
+
+# print(get_fac(5))
+
+# def round_and_round():
+#     print('Again and Again')
+#     round_and_round()
+#
+#
+# round_and_round()
+
