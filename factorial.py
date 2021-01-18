@@ -19,6 +19,8 @@ def get_factorial(x):
             factorial = factorial * i
         print("The factorial of", x, "is", factorial)
 
+    k = input('wait')
+
 
 if __name__ == '__main__':
     main()
